@@ -1,4 +1,6 @@
-import org.example.practical_tasks_softserve.PracticalTask09.task1.Rectangle;
+package practicaltask09.task1;
+
+import org.example.practicaltasks.task09.task1.Rectangle;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;

@@ -1,4 +1,4 @@
-package org.example.practical_tasks_softserve.PracticalTask09.task2;
+package org.example.practicaltasks.task09.task2;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -64,5 +64,9 @@ public class NumberAnalyzer {
     public void sortCollection() {
         Collections.sort(numbers);
         System.out.println("Sorted collection: " + numbers);
+    }
+
+    public ArrayList<Integer> getNumbers() {
+        return numbers;
     }
 }

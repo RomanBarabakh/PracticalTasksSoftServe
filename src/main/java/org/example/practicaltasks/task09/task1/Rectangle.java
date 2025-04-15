@@ -1,4 +1,4 @@
-package org.example.practical_tasks_softserve.PracticalTask09.task1;
+package org.example.practicaltasks.task09.task1;
 
 public class Rectangle {
     private final double angle = 90.0;

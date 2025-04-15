@@ -1,4 +1,4 @@
-package org.example.practical_tasks_softserve.PracticalTask09.task2;
+package org.example.practicaltasks.task09.task2;
 
 public class appl {
     public static void main(String[] args) {
